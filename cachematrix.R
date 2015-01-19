@@ -1,14 +1,3 @@
-
-
-> library(NMF)
-> library(pnmath)
-> library(Rmpi)
-> library(clue)
-
-> x <- rmatrix(1000,1000)  // Creates Non Negative Ints
-> solve_LSAP(x) 	
-
-
 ## Put comments here that give an overall description of what your
 ## functions do
 
